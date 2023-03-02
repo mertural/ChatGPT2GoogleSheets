@@ -1,5 +1,5 @@
-# ChatGPTapi2GoogleSheets
-Easily use ChatGPTapi in Google Spreadsheet
+# ChatGPT2GoogleSheets
+Easily use ChatGPT API in Google Spreadsheet
 
 You can use ChatGPT via new ChatGPT API (https://openai.com/blog/introducing-chatgpt-and-whisper-apis) on spreadsheet. with =ai(message")
 
@@ -11,7 +11,7 @@ How to use:
 4) Go To Spreasheet back
 5) use =ai("Your Message")
 
-Example Image:
+Example:
 
 ![My Image](ScreenShot.jpg)
 
