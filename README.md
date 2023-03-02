@@ -11,4 +11,7 @@ How to use:
 4) Go To Spreasheet back
 5) use =ai("Your Message")
 
-![My Image](ScreenShot.ogg)
+Example:
+![My Image](ScreenShot.jpg)
+
+Also you can just copy my Spreadsheet file and edit 
